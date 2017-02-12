@@ -1,4 +1,12 @@
-import com.sun.scenario.effect.Merge;
+package com.algortihms.mergesort;
+
+/* The merge sort has a much lower order of growth
+than the insertion sort. It is based on the on
+the divide and conquer approach to algorithms.
+We divide the main problem into smaller
+sub-problems which each resemble the main problem.#
+We then conquer the sub-problems. Finally, we merge the
+solved sub-problems to complete the sub-problem*/
 
 import java.lang.reflect.Array;
 import java.util.ArrayList;
