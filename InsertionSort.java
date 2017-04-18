@@ -7,9 +7,9 @@
  * would sort their hand (picking an item,
  * scanning the list, and inserting where
  * correct).
- * It's worst case running time is equal a triangular number equal to
+ * It's worst case running time is a triangular number equal to
  * (n * (n+1)) / 2.
- * It is inferior to to more complex algortihm as it's order of growth
+ * It is inferior to more complex algortihm as it's order of growth
  * far exceeds others
  */
 public class InsertSort {
